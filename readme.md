@@ -11,7 +11,7 @@
 ## 교육
 - 빅데이터 웹 개발 : KITRI (2013.9 - 2014.2)
 - 게임프로그래밍 : 쥬신게임학원 (2017.10 - 2018.8)
-  - [www.youtube.com/watch?v=9O80iRysojo]( 최종 졸업 작품 동영상 )
+  - www.youtube.com/watch?v=9O80iRysojo 최종 졸업 작품 동영상 
   - DirectX9, C++로 이용
   - 물리엔진을 사용하지 않고 직접 구현(에 의의를 두고 있습니다.)
 
