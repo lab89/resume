@@ -1,2 +1,13 @@
+# 이력서
 [![HitCount](http://hits.dwyl.io/lab89/resume.svg)](http://hits.dwyl.io/lab89/resume)
-![status](https://img.shields.io/badge/working-brightgreen.svg)
+
+## 소개
+- 이름 : 홍건희
+- 한림대학교 금융통계학과(주) / 수학(부)
+- 취미 : 피아노, 큐브맞추기(연습중)
+- 이메일 : im4leaf@gmail.com
+- github : [github.com/lab89](https://github.com/lab89)
+
+## 경력
+- 신테카 바이오(가시화 사업부, 주임)
+-- 제품 관련 웹 사이트 
