@@ -67,3 +67,12 @@
   - github : [github.com/lab89/monadologia](https://github.com/lab89/monadologia)
   - 사용기술
     - typescript
+    
+## 기타 링크
+- 개인 Github
+  - [github.com/lab89](https://github.com/lab89)
+- 개인 블로그
+  - [velog.io/@cfop](https://https://velog.io/@cfop)
+- cubelopment instagram
+  - [www.instagram.com/cubelopment/](https://www.instagram.com/cubelopment/)
+
