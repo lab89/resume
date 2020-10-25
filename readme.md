@@ -59,7 +59,7 @@
     - redux, redux-saga
     - typescipt
 - three-rubiks-cube(npm module)
-  - ![grab-landing-page](https://github.com/lab89/resume/blob/master/images/three-rubiks-cube.png?raw=true)
+  - ![grab-landing-page](https://github.com/lab89/resume/images/three-rubiks-cube.png?raw=true)
   - github : [github.com/lab89/three-rubiks-cube](https://github.com/lab89/three-rubiks-cube)    
   - npmjs : [www.npmjs.com/package/three-rubiks-cube](https://www.npmjs.com/package/three-rubiks-cube)
   - 사용기술
