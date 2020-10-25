@@ -60,17 +60,19 @@
     - typescipt
 - three-rubiks-cube(npm module)
   - github : [github.com/lab89/three-rubiks-cube](https://github.com/lab89/three-rubiks-cube)    
+  - npmjs : [www.npmjs.com/package/three-rubiks-cube](https://www.npmjs.com/package/three-rubiks-cube)
   - 사용기술
     - three.js
     - pure javascript
 - monadologia(npm module)
   - github : [github.com/lab89/monadologia](https://github.com/lab89/monadologia)
+  - npmjs : [www.npmjs.com/package/monadologia](https://www.npmjs.com/package/monadologia)
   - 사용기술
     - typescript
     
 ## 기타 링크
 - 개인 Github
-  - [github.com/lab89](https://github.com/lab89)
+  - [github.com/lab89](https://github.com/lab89)  
 - 개인 블로그
   - [velog.io/@cfop](https://velog.io/@cfop)
 - cubelopment instagram
