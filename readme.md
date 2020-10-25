@@ -44,20 +44,26 @@
 - pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션 제작
   - 한 일
     - 에디터, 뷰어 어플리케이션 제작
-  - 사용 기술
+  - 사용기술
     - vuejs
     - vuex
     - paperjs
     - typescript
 
 ## 개인 프로젝트
-- cubelopemnt(chrome extension)
-  - threejs
-  - react
-  - redux, redux-saga
-  - typescipt
+- cubelopemnt(chrome extension)  
+  - github : [github.com/lab89/cubelopment.io](https://github.com/lab89/cubelopment.io)    
+  - 사용기술
+    - threejs
+    - react
+    - redux, redux-saga
+    - typescipt
 - three-rubiks-cube(npm module)
-  - three.js
-  - pure javascript
+  - github : [github.com/lab89/three-rubiks-cube](https://github.com/lab89/three-rubiks-cube)    
+  - 사용기술
+    - three.js
+    - pure javascript
 - monadologia(npm module)
-  - typescript
+  - github : [github.com/lab89/monadologia](https://github.com/lab89/monadologia)
+  - 사용기술
+    - typescript
