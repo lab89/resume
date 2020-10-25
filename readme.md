@@ -20,26 +20,31 @@
 - 위엠비(2018-현재, VX(Visual Experience)팀, 책임연구원) : 솔루션 유지보수 및 외부 프로젝트 지원
 
 ## 보유 기술
-- html/css
-- javascript
-  - es6
-  - typescript  
-- libray & framework
-  - 3d library
-    - three.js
-  - canvas library
-    - paper.js
-  - front end framework
-    - vue.js
-    - react.js
 
 ## 프로젝트 이력
-- 솔루션 유지보수
-- 한전 연구과제
-- pnid(Piping and instrumentation diagram)
-
+- 솔루션 성능 개선 및 버그 수정
+  - pureMVC
+  - vuejs
+  - typescript
+  - threejs
+- 한국전력연구원 연구과제 수행
+  - vuejs
+  - vuex
+  - threejs
+- pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션 제작
+  - vuejs
+  - vuex
+  - paperjs
 
 ## 개인 프로젝트
 - cubelopemnt(chrome extension)
+  - threejs
+  - react
+  - redux, redux-saga
+  - typescipt
 - three-rubiks-cube(npm module)
+  - three.js
+  - pure javascript
 - monadologia(npm module)
+  - typescript
+  - pure javascript
