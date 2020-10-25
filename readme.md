@@ -58,14 +58,14 @@
     - react
     - redux, redux-saga
     - typescipt
-- three-rubiks-cube(npm module)
+- three-rubiks-cube(npm module)  
 ![github.com/lab89/three-rubiks-cube](https://github.com/lab89/resume/blob/master/images/three-rubiks-cube.PNG?raw=true)
   - github : [github.com/lab89/three-rubiks-cube](https://github.com/lab89/three-rubiks-cube)    
   - npmjs : [www.npmjs.com/package/three-rubiks-cube](https://www.npmjs.com/package/three-rubiks-cube)
   - 사용기술
     - three.js
     - pure javascript
-- monadologia(npm module)
+- monadologia(npm module)  
 ![github.com/lab89/monadologia](https://github.com/lab89/resume/blob/master/images/monadologia.PNG?raw=true)
   - github : [github.com/lab89/monadologia](https://github.com/lab89/monadologia)
   - npmjs : [www.npmjs.com/package/monadologia](https://www.npmjs.com/package/monadologia)
