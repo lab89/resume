@@ -66,8 +66,6 @@
     - three.js
     - pure javascript
 - monadologia(npm module)
-  ![grab-landing-page](https://github.com/lab89/resume/blob/master/images/monadologia.png?raw=true)
-
   - github : [github.com/lab89/monadologia](https://github.com/lab89/monadologia)
   - npmjs : [www.npmjs.com/package/monadologia](https://www.npmjs.com/package/monadologia)
   - 사용기술
