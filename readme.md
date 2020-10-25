@@ -19,22 +19,36 @@
 - 신테카 바이오(2016-2017, 가시화 사업부, 주임) : 제품 관련 웹 사이트 제작
 - 위엠비(2018-현재, VX(Visual Experience)팀, 책임연구원) : 솔루션 유지보수 및 외부 프로젝트 지원
 
-## 보유 기술
-
-## 프로젝트 이력
-- 솔루션 성능 개선 및 버그 수정
-  - pureMVC
-  - vuejs
-  - typescript
-  - threejs
+## 프로젝트 이력 및 사용 기술
+- 솔루션 성능 개선 및 버그 수정 및 지원
+  - 한 일
+    - 3d rendering frame 개선
+    - 솔루션 로딩 속도 개선
+    - 3D resource 로딩 개선
+    - 버그 수정 및 기능 추가 및 개선
+    - 외부 프로젝트 지원
+  - 사용기술
+    - pureMVC
+    - vuejs
+    - typescript
+    - threejs
 - 한국전력연구원 연구과제 수행
-  - vuejs
-  - vuex
-  - threejs
+  - 한 일
+    - 2차년도 참여
+    - AI 학습 관련 기능 및 시각화
+  - 사용기술
+    - vuejs
+    - vuex
+    - threejs
+    - pure javascript
 - pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션 제작
-  - vuejs
-  - vuex
-  - paperjs
+  - 한 일
+    - 에디터, 뷰어 어플리케이션 제작
+  - 사용 기술
+    - vuejs
+    - vuex
+    - paperjs
+    - typescript
 
 ## 개인 프로젝트
 - cubelopemnt(chrome extension)
@@ -47,4 +61,3 @@
   - pure javascript
 - monadologia(npm module)
   - typescript
-  - pure javascript
