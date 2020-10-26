@@ -6,7 +6,6 @@
 - 한림대학교 금융통계학과(주) / 수학(부)
 - 취미 : 피아노, 큐브맞추기(연습중)
 - 이메일 : im4leaf@gmail.com
-- github : [github.com/lab89](https://github.com/lab89)
 
 ## 교육
 - 빅데이터 웹 개발 : KITRI (2013.9 - 2014.2)
