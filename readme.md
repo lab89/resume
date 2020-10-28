@@ -52,7 +52,7 @@
 ## 개인 프로젝트
 - cubelopemnt(chrome extension)  
 ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/cubelopment.PNG?raw=true)
-![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/chrom-extension.PNG?raw=true)
+![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/chrome-extension.PNG?raw=true)
 
   - github : [github.com/lab89/cubelopment.io](https://github.com/lab89/cubelopment.io)    
   - 사용기술
