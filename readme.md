@@ -46,9 +46,8 @@
     - vuex
     - threejs
     - pure javascript
-- pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션 제작
+- pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션 제작(: 아래와 같은 도면을 그리는 툴을 만드는 프로젝트였습니다)
 ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/pnidExample.jpg?raw=true)
-(이런 도면을 그리는 툴을 만드는 프로젝트였습니다)
   - 한 일
     - 에디터, 뷰어 어플리케이션 제작
   - 사용기술
