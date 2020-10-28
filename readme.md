@@ -47,7 +47,7 @@
     - threejs
     - pure javascript
 - pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션 제작
-![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/pnidExample.PNG?raw=true)
+![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/pnidExample.jpg?raw=true)
   - 한 일
     - 에디터, 뷰어 어플리케이션 제작
   - 사용기술
