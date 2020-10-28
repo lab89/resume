@@ -51,6 +51,9 @@
 
 ## 개인 프로젝트
 - cubelopemnt(chrome extension)  
+![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/cubelopment.PNG?raw=true)
+![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/chrom-extension.PNG?raw=true)
+
   - github : [github.com/lab89/cubelopment.io](https://github.com/lab89/cubelopment.io)    
   - 사용기술
     - threejs
@@ -58,14 +61,14 @@
     - redux, redux-saga
     - typescipt
 - three-rubiks-cube(npm module)  
-![github.com/lab89/three-rubiks-cube](https://github.com/lab89/resume/blob/master/images/three-rubiks-cube.PNG?raw=true)
+![github.com/lab89/three-rubiks-cube](https://github.com/lab89/resume/blob/master/images/npmjs-three-rubiks-cube.PNG?raw=true)
   - github : [github.com/lab89/three-rubiks-cube](https://github.com/lab89/three-rubiks-cube)    
   - npmjs : [www.npmjs.com/package/three-rubiks-cube](https://www.npmjs.com/package/three-rubiks-cube)
   - 사용기술
     - three.js
     - pure javascript
 - monadologia(npm module)  
-![github.com/lab89/monadologia](https://github.com/lab89/resume/blob/master/images/monadologia.PNG?raw=true)
+![github.com/lab89/monadologia](https://github.com/lab89/resume/blob/master/images/npmjs-monadologia.PNG?raw=true)
   - github : [github.com/lab89/monadologia](https://github.com/lab89/monadologia)
   - npmjs : [www.npmjs.com/package/monadologia](https://www.npmjs.com/package/monadologia)
   - 사용기술
