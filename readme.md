@@ -20,6 +20,8 @@
 
 ## 프로젝트 이력 및 사용 기술
 - 솔루션 성능 개선 및 버그 수정 및 지원
+  - 참고 링크
+    - http://www.wemb.co.kr/iot-smart-platform/renobit.php
   - 한 일
     - 3d rendering frame 개선
     - 솔루션 로딩 속도 개선
