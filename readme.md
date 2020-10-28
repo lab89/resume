@@ -40,14 +40,14 @@
 - 한국전력연구원 연구과제 수행
   - 한 일
     - 2차년도 참여
-    - AI 학습 관련 기능 및 시각화
+    - AI 학습 관련 기능 및 시각화(데이터-차트-3D모델링)
   - 사용기술
     - vuejs
     - vuex
     - threejs
     - pure javascript
-- pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션 제작
-![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/pnidExample.PNG?raw=true)
+- pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션(아래와 같은 도면을 그리는 툴과 뷰어) 제작
+![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/pnidExample.jpg?raw=true)
   - 한 일
     - 에디터, 뷰어 어플리케이션 제작
   - 사용기술
