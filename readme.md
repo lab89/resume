@@ -23,7 +23,9 @@
 - 위엠비(2018-현재, VX(Visual Experience)팀, 책임연구원) : 솔루션 유지보수 및 외부 프로젝트 지원
 
 ## 프로젝트 이력 및 사용 기술
-- 솔루션 성능 개선 및 버그 수정 및 지원
+- 솔루션(아래와 같은 화면을 만들 수 있는 툴, 뷰어) 성능 개선 및 버그 수정 및 지원
+![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/monitoring.jpg?raw=true)
+  - 이미지 출처 : http://pntbiz.co.kr/index.php/2017/12/24/1001/
   - 참고 링크
     - http://www.wemb.co.kr/iot-smart-platform/renobit.php
   - 한 일
@@ -46,8 +48,9 @@
     - vuex
     - threejs
     - pure javascript
-- pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션(아래와 같은 도면을 그리는 툴과 뷰어) 제작
+- pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션(아래와 같은 도면을 그리는 툴, 뷰어) 제작
 ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/pnidExample.jpg?raw=true)
+  - 이미지 출처 : https://user.eng.umd.edu/~austin/ence688r.d/projects2013a.html
   - 한 일
     - 에디터, 뷰어 어플리케이션 제작
   - 사용기술
