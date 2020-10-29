@@ -1,6 +1,4 @@
 # 이력서
-[![HitCount](http://hits.dwyl.io/lab89/resume.svg)](http://hits.dwyl.io/lab89/resume)
-
 ## 소개
 - 이름 : 홍건희
 - 한림대학교 금융통계학과(주) / 수학(부)
@@ -39,6 +37,7 @@
     - vuejs
     - typescript
     - threejs
+    
 - 한국전력연구원 연구과제 수행
   - 한 일
     - 2차년도 참여
@@ -48,6 +47,7 @@
     - vuex
     - threejs
     - pure javascript
+    
 - pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션(아래와 같은 도면을 그리는 툴, 뷰어) 제작
 ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/pnidExample.jpg?raw=true)
   - 이미지 출처 : https://user.eng.umd.edu/~austin/ence688r.d/projects2013a.html
