@@ -84,6 +84,12 @@
   - npmjs : [www.npmjs.com/package/monadologia](https://www.npmjs.com/package/monadologia)
   - 사용기술
     - typescript
+- tagular(npm module)  
+![github.com/lab89/tagular](https://github.com/lab89/resume/blob/master/images/tagular.PNG?raw=true)
+  - github : [github.com/lab89/tagular](https://github.com/lab89/tagular)
+  - npmjs : [www.npmjs.com/package/tagular](https://www.npmjs.com/package/tagular)
+  - 사용기술
+    - typescript
     
 ## 기타 링크
 - 개인 Github
