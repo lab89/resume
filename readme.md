@@ -102,6 +102,7 @@
     - material ui
     - emotion
 - Link git(Jupyter lab extension)
+- (https://github.com/lab89/resume/blob/master/images/link-git-capture.PNG?raw=true)
   - 사용 기술
     - cytoscape.js
     - react
