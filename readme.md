@@ -110,7 +110,7 @@
     - typestyle
 ## 그 밖에..
 - playwright (e2e testing tool)
-  -  
+  -  ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/156310192-efea78a1-b5cc-4feb-a870-08104802b774.mp4?raw=true)
 - astro ssg (static site generator)
 ## 기타 링크
 - 개인 Github
