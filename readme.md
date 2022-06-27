@@ -108,12 +108,11 @@
     - react
     - typescript
     - typestyle
-    
+## 그 밖에..
+- playwright (e2e testing tool)
+- astro ssg (static site generator)
 ## 기타 링크
 - 개인 Github
   - [github.com/lab89](https://github.com/lab89)  
-- 개인 블로그
-  - [velog.io/@cfop](https://velog.io/@cfop)
-- cubelopment instagram
-  - [www.instagram.com/cubelopment/](https://www.instagram.com/cubelopment/)
+
 
