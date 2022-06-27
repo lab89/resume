@@ -98,8 +98,15 @@
   - 사용 기술
     - typescript
     - d3js
+    - react
     - material ui
     - emotion
+- Link git(Jupyter lab extension)
+  - 사용 기술
+    - cytoscape.js
+    - react
+    - typescript
+    - typestyle
     
 ## 기타 링크
 - 개인 Github
