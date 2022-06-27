@@ -93,6 +93,8 @@
   - npmjs : [www.npmjs.com/package/tagular](https://www.npmjs.com/package/tagular)
   - 사용기술
     - typescript
+- Link(Jupyter lab extension)
+  - video : [https://youtu.be/D-hb4wfGZ_s](https://youtu.be/D-hb4wfGZ_s)  
     
 ## 기타 링크
 - 개인 Github
