@@ -72,7 +72,7 @@
     - material ui
     - emotion
 - [마키나락스]Link git(Jupyter lab extension)
-  - ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/link-git-capture.PNG?raw=true)
+  ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/link-git-capture.PNG?raw=true)
   - 한 일
     - 설계 및 구현 
   - 사용 기술
