@@ -24,7 +24,7 @@
 - 마키나락스(2021.3 - 2022.06)
 
 ## 프로젝트 이력 및 사용 기술
-- 솔루션(아래와 같은 화면을 만들 수 있는 툴, 뷰어) 성능 개선 및 버그 수정 및 지원
+- [위엠비]솔루션(아래와 같은 화면을 만들 수 있는 툴, 뷰어) 성능 개선 및 버그 수정 및 지원
 ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/monitoring.jpg?raw=true)
   - 이미지 출처 : http://pntbiz.co.kr/index.php/2017/12/24/1001/
   - 참고 링크
@@ -41,7 +41,7 @@
     - typescript
     - threejs
     
-- 한국전력연구원 연구과제 수행
+- [위엠비]한국전력연구원 연구과제 수행
   - 한 일
     - 2차년도 참여
     - AI 학습 관련 기능 및 시각화(데이터-차트-3D모델링)
@@ -51,18 +51,17 @@
     - threejs
     - pure javascript
     
-- pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션(아래와 같은 도면을 그리는 툴, 뷰어) 제작
-
+- [위엠비]pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션(아래와 같은 도면을 그리는 툴, 뷰어) 제작
 ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/pnidExample.jpg?raw=true)
   - 이미지 출처 : https://user.eng.umd.edu/~austin/ence688r.d/projects2013a.html
   - 한 일
-    - 에디터, 뷰어 어플리케이션 제작
-  - 사용기술
-    - vuejs
-    - vuex
-    - paperjs
-    - typescript
-- Link(Jupyter lab extension)
+      - 에디터, 뷰어 어플리케이션 제작
+      - 사용기술
+        - vuejs
+        - vuex
+        - paperjs
+        - typescript
+- [마키나락스]Link(Jupyter lab extension)
   - video : [https://youtu.be/D-hb4wfGZ_s](https://youtu.be/D-hb4wfGZ_s)  
   - 한 일
     - 설계 및 구현 
@@ -72,7 +71,7 @@
     - react
     - material ui
     - emotion
-- Link git(Jupyter lab extension)
+- [마키나락스]Link git(Jupyter lab extension)
   - ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/link-git-capture.PNG?raw=true)
   - 한 일
     - 설계 및 구현 
