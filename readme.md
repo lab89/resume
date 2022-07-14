@@ -2,7 +2,7 @@
 ## 소개
 - 이름 : 홍건희
 - 한림대학교 금융통계학과(주) / 수학(부)
-- 취미 : 피아노, 큐브맞추기(연습중)
+- 취미 : 피아노, 독서
 - 이메일 : roux.hong@gmail.com
 
 ## 교육
@@ -62,7 +62,25 @@
     - vuex
     - paperjs
     - typescript
-
+- Link(Jupyter lab extension)
+  - video : [https://youtu.be/D-hb4wfGZ_s](https://youtu.be/D-hb4wfGZ_s)  
+  - 한 일
+    - 설계 및 구현 
+  - 사용 기술
+    - typescript
+    - d3js
+    - react
+    - material ui
+    - emotion
+- Link git(Jupyter lab extension)
+  - ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/link-git-capture.PNG?raw=true)
+  - 한 일
+    - 설계 및 구현 
+  - 사용 기술
+    - cytoscape.js
+    - react
+    - typescript
+    - typestyle
 ## 개인 프로젝트
 - cubelopemnt(chrome extension)  
 ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/cubelopment.PNG?raw=true)
@@ -93,21 +111,7 @@
   - npmjs : [www.npmjs.com/package/tagular](https://www.npmjs.com/package/tagular)
   - 사용기술
     - typescript
-- Link(Jupyter lab extension)
-  - video : [https://youtu.be/D-hb4wfGZ_s](https://youtu.be/D-hb4wfGZ_s)  
-  - 사용 기술
-    - typescript
-    - d3js
-    - react
-    - material ui
-    - emotion
-- Link git(Jupyter lab extension)
-  - ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/link-git-capture.PNG?raw=true)
-  - 사용 기술
-    - cytoscape.js
-    - react
-    - typescript
-    - typestyle
+
 
 ## 그 밖에..
 - playwright (e2e testing tool) 
