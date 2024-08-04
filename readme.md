@@ -94,7 +94,7 @@
       - xstate.js
       - konva.js
       - react
-      - 
+        
 ## 개인 프로젝트
 - cubelopemnt(chrome extension)  
 ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/cubelopment.PNG?raw=true)
