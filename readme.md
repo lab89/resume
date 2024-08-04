@@ -25,7 +25,7 @@
 - 마키나락스(2021.3 - 2022.06)
 - 세이지(2022.09 - 2024.05)
 
-## 프로젝트 이력 및 사용 기술
+## portfolio 및 경력 기술
 - [위엠비]솔루션(아래와 같은 화면을 만들 수 있는 툴, 뷰어) 성능 개선 및 버그 수정 및 지원
 ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/monitoring.jpg?raw=true)
   - 이미지 출처 : http://pntbiz.co.kr/index.php/2017/12/24/1001/
