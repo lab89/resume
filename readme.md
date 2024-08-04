@@ -3,7 +3,7 @@
 - 이름 : 홍건희
 - 한림대학교 금융통계학과(주) / 수학(부)
 - 취미 : 피아노, 독서
-- 이메일 : roux.hong@gmail.com
+- 이메일 : roux.hong@gmail.com / im_4leaf@naver.com
 
 ## 교육
 - 빅데이터 웹 개발 : KITRI (2013.9 - 2014.2)
@@ -11,6 +11,7 @@
   - www.youtube.com/watch?v=9O80iRysojo 최종 졸업 작품 동영상 
   - DirectX9, C++로 이용
   - 물리엔진을 사용하지 않고 직접 구현(에 의의를 두고 있습니다.)
+- 국제시계학원 : 시계 교육
 
 ## 자격증
 - 사회조사분석사 2급
@@ -22,6 +23,7 @@
 - 위엠비(2018-2021.1, VX(Visual Experience)팀, 책임연구원) : 솔루션 유지보수 및 외부 프로젝트 지원
 - NHN SOFT(잠시)
 - 마키나락스(2021.3 - 2022.06)
+- 세이지(2022.09 - 2024.05)
 
 ## 프로젝트 이력 및 사용 기술
 - [위엠비]솔루션(아래와 같은 화면을 만들 수 있는 툴, 뷰어) 성능 개선 및 버그 수정 및 지원
@@ -37,18 +39,19 @@
     - 외부 프로젝트 지원
   - 사용기술
     - pureMVC
-    - vuejs
+    - vue.js
+    - jquery
     - typescript
-    - threejs
+    - three.js
     
 - [위엠비]한국전력연구원 연구과제 수행
   - 한 일
     - 2차년도 참여
     - AI 학습 관련 기능 및 시각화(데이터-차트-3D모델링)
   - 사용기술
-    - vuejs
+    - vue.js
     - vuex
-    - threejs
+    - three.js
     - pure javascript
     
 - [위엠비]pnid(Piping and instrumentation diagram)프로젝트 지원을 위한 어플리케이션(아래와 같은 도면을 그리는 툴, 뷰어) 제작
@@ -57,17 +60,17 @@
   - 한 일
       - 에디터, 뷰어 어플리케이션 제작
       - 사용기술
-        - vuejs
+        - vue.js
         - vuex
-        - paperjs
+        - paper.js
         - typescript
 - [마키나락스]Link(Jupyter lab extension)
-  - video : [https://youtu.be/D-hb4wfGZ_s](https://youtu.be/D-hb4wfGZ_s)  
+  - https://link.makinarocks.ai/ko/  
   - 한 일
     - 설계 및 구현 
   - 사용 기술
     - typescript
-    - d3js
+    - d3.js
     - react
     - material ui
     - emotion
@@ -80,6 +83,18 @@
     - react
     - typescript
     - typestyle
+    
+- [세이지]Saige Vision2
+    - https://saige.ai/kr/solutions/vision
+    - 한 일
+      - 라벨링 에디터 설계 및 구현
+      - 기타 페이지 구현
+      - 디자인 시스템 기초작업(based on material ui)
+    - 사용 기술
+      - xstate.js
+      - konva.js
+      - react
+      - 
 ## 개인 프로젝트
 - cubelopemnt(chrome extension)  
 ![github.com/lab89/cubelopment.io](https://github.com/lab89/resume/blob/master/images/cubelopment.PNG?raw=true)
@@ -115,9 +130,5 @@
 ## 그 밖에..
 - playwright (e2e testing tool) 
 - astro ssg (static site generator)
- 
-## 기타 링크
-- 개인 Github
-  - [github.com/lab89](https://github.com/lab89)  
 
 
